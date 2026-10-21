@@ -1,7 +1,7 @@
 {
-  "name": "技術士一次 基礎科目 FINAL 250",
-  "short_name": "技術士 基礎250",
-  "description": "技術士第一次試験 基礎科目の本番対策・弱点分析・模試アプリ",
+  "name": "技術士一次 基礎科目 FINAL 300",
+  "short_name": "技術士 基礎300",
+  "description": "技術士第一次試験 基礎科目の本番対策・図表問題・弱点分析・模試アプリ",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
